@@ -10,7 +10,7 @@ import CatalogCardLong from "./CatalogCardLong.vue";
     <Header />
     <section class="flex flex-col gap-2.5 px-4 pb-8">
       <div class="h-7" />
-      <div class="grid grid-cols-1 gap-2.5 lg:grid-cols-3">
+      <div class="grid grid-cols-1 gap-2.5 md:grid-cols-2 lg:grid-cols-3">
         <CatalogCardEmpty />
         <CatalogCardChristmas />
         <CatalogCardLong />
