@@ -24,7 +24,6 @@ import Badge from "./Badge.vue";
       </div>
       <div class="flex flex-col">
         <div class="flex gap-5 py-1 text-xs text-grey-500">
-          >
           <span>Created on</span>
           <span>12.27.2024</span>
         </div>
